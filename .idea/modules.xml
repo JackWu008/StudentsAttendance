@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentsAttendance.iml" filepath="$PROJECT_DIR$/StudentsAttendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabletimeview/Tabletimeview.iml" filepath="$PROJECT_DIR$/Tabletimeview/Tabletimeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_GetInfo/lib_GetInfo.iml" filepath="$PROJECT_DIR$/lib_GetInfo/lib_GetInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_sqlite/lib_sqlite.iml" filepath="$PROJECT_DIR$/lib_sqlite/lib_sqlite.iml" />
+    </modules>
+  </component>
+</project>
